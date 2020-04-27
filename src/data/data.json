@@ -1,0 +1,26 @@
+{
+  "last": 47,
+  "today": 0,
+  "tickets": [
+    { "number": 34, "desk": null },
+    { "number": 35, "desk": null },
+    { "number": 36, "desk": null },
+    { "number": 37, "desk": null },
+    { "number": 38, "desk": null },
+    { "number": 39, "desk": null },
+    { "number": 40, "desk": null },
+    { "number": 41, "desk": null },
+    { "number": 42, "desk": null },
+    { "number": 43, "desk": null },
+    { "number": 44, "desk": null },
+    { "number": 45, "desk": null },
+    { "number": 46, "desk": null },
+    { "number": 47, "desk": null }
+  ],
+  "last4": [
+    { "number": 33, "desk": "4" },
+    { "number": 32, "desk": "4" },
+    { "number": 31, "desk": "4" },
+    { "number": 30, "desk": "4" }
+  ]
+}
