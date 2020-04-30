@@ -10,8 +10,8 @@ En desarrollo:
 - Dotenv
 - Nodemon
 
-- Iniciar:
-$ npm install
+ Iniciar:
+-$ npm install
 
-- Ejecutar:
-$ node src/index.js
+ Ejecutar:
+-$ node src/index.js
